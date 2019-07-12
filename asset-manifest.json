@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/callbreak-counter-app/static/css/main.2cce8147.chunk.css",
-    "main.js": "/callbreak-counter-app/static/js/main.097c34d3.chunk.js",
-    "main.js.map": "/callbreak-counter-app/static/js/main.097c34d3.chunk.js.map",
+    "main.css": "/callbreak-counter-app/static/css/main.f4433c3f.chunk.css",
+    "main.js": "/callbreak-counter-app/static/js/main.753bf958.chunk.js",
+    "main.js.map": "/callbreak-counter-app/static/js/main.753bf958.chunk.js.map",
     "runtime~main.js": "/callbreak-counter-app/static/js/runtime~main.6799b208.js",
     "runtime~main.js.map": "/callbreak-counter-app/static/js/runtime~main.6799b208.js.map",
-    "static/js/2.b41502e9.chunk.js": "/callbreak-counter-app/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/callbreak-counter-app/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/callbreak-counter-app/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.61b6dae8.chunk.js": "/callbreak-counter-app/static/js/2.61b6dae8.chunk.js",
+    "static/js/2.61b6dae8.chunk.js.map": "/callbreak-counter-app/static/js/2.61b6dae8.chunk.js.map",
     "index.html": "/callbreak-counter-app/index.html",
-    "precache-manifest.44c4f36f0d4d162d1d4dc5aacf5aeaee.js": "/callbreak-counter-app/precache-manifest.44c4f36f0d4d162d1d4dc5aacf5aeaee.js",
+    "precache-manifest.b09e5b445ac88370601842c0388a84ef.js": "/callbreak-counter-app/precache-manifest.b09e5b445ac88370601842c0388a84ef.js",
     "service-worker.js": "/callbreak-counter-app/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/callbreak-counter-app/static/css/main.2cce8147.chunk.css.map",
+    "static/css/2.22a7d4ef.chunk.css.map": "/callbreak-counter-app/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.f4433c3f.chunk.css.map": "/callbreak-counter-app/static/css/main.f4433c3f.chunk.css.map",
     "static/media/logo.svg": "/callbreak-counter-app/static/media/logo.5d5d9eef.svg"
   }
 }
