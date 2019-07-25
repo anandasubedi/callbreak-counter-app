@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/callbreak-counter-app/precache-manifest.a8b18526dec8dbf48ed9f1083572f1de.js"
+  "/callbreak-counter-app/precache-manifest.25c69291bb462a3aff1518c68efb7845.js"
 );
 
 self.addEventListener('message', (event) => {
